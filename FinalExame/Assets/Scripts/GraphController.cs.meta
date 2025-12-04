@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7756f0a013693042b855283bf71413a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bubblePrefab: {instanceID: 0}
+  - contentParent: {instanceID: 0}
+  - tooltipPanel: {fileID: 287835664868621999, guid: 57cd2b0c874281f4dad554b38e519ee3, type: 3}
+  - tooltipText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
